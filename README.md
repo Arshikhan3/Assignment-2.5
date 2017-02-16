@@ -16,6 +16,6 @@ Rack awareness is having the knowledge of Cluster topology or more specifically 
 
 The main purpose of Rack awareness is:
 
-Increasing the availability of data block
-Better cluster performance
+Increasing the availability of data block.
+Better cluster performance.
  In simple words rack awareness is the strategy namenode employs to choose the nearest datanode based on rack information. 
